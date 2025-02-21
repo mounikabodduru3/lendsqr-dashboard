@@ -1,4 +1,4 @@
-Project Logo
+
 This project is a showcase of the admin dashboard of Lendsqr, it contains a login page, a dashboard page, and a profile page. This project features is built with React, TypeScript, SASS and Vite bundler. A user can login, access the dashboard and profile pages. A user can modify the status of the users within the dashboard and filter the users by organization, status, date joined, etc. The project features a state management system using Zustand and a test suite using Vitest.
 
 Table of Contents
@@ -16,13 +16,7 @@ You need to have the following installed on your computer.
 
 Node.js (v14+)
 yarn
-Installation
-Clone the repository:
 
-git clone https://github.com/DavOlufuwa/lendsqr-fe-test.git
-Navigate to the project directory:
-
-cd lendsqr-fe-test
 Install project dependencies:
 
 yarn install
